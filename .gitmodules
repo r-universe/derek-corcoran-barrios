@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DiversityOccupancy"]
+	path = DiversityOccupancy
+	url = https://github.com/cran/DiversityOccupancy
+	shallow = true
+	registered = true
 [submodule "NetworkExtinction"]
 	path = NetworkExtinction
 	url = https://github.com/derek-corcoran-barrios/networkextinction
